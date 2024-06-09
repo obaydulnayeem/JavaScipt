@@ -1,0 +1,17 @@
+JavaScript:
+    - scripting language
+    - High Level
+    - interpreted
+    - interactive
+
+Applications:
+    - Websites
+    - Web Applications
+    - Presentations
+    - Server Applications
+    - Web Servers
+    - Games
+    - Art
+    - Smartwatch Applications
+    - Mobile Applications
+    - Flying Robots
